@@ -1,0 +1,16 @@
+{
+  "name": "lap1_client",
+  "version": "1.0.0",
+  "description": "## About This repository contains files that comprise the front end of our web application. This application is a quiz website where users are tested on history questions.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}

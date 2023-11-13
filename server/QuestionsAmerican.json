@@ -1,0 +1,82 @@
+[
+  {
+    "question": "Who was the first US President?",
+    "answer_1": "Benjamin Franklin",
+    "answer_2": "John Adams",
+    "answer_3": "Calvin Coolidge",
+    "correct_answer": "George Washington",
+    "id": 1
+  },
+  {
+    "question": "Who was the only US President to serve two non-consecutive terms in office?",
+    "answer_1": "John Quincey Adams",
+    "answer_2": "Richard Nixon",
+    "answer_3": "Lyndon B Johnson",
+    "correct_answer": "Grover Cleveland",
+    "id": 2
+  },
+  {
+    "question": "In what year was the declaration of independence signed?",
+    "answer_1": 1778,
+    "answer_2": 1780,
+    "answer_3": 1777,
+    "correct_answer": 1776,
+    "id": 3
+  },
+  {
+    "question": "Who out of the following was not a Vice-President prior to becoming the President of the US?",
+    "answer_1": "Lyndon B Johnson",
+    "answer_2": "Gerald Ford",
+    "answer_3": "Harry Truman",
+    "correct_answer": "Franklin D Roosevelt",
+    "id": 4
+  },
+  {
+    "question": "Which US President is not shown on Mount Rushmore?",
+    "answer_1": "Abraham Lincoln",
+    "answer_2": "Thomas Jefferson",
+    "answer_3": "Theodore Roosevelt",
+    "correct_answer": "John Adams",
+    "id": 5
+  },
+  {
+    "question": "Who was the US President when the Wall Street Crash hit America?",
+    "answer_1": "Dwight D Eisenhower",
+    "answer_2": "Woodrow Wilson",
+    "answer_3": "Theodore Roosevelt",
+    "correct_answer": "Herbert Hoover",
+    "id": 6
+  },
+  {
+    "question": "In what year was the Cuban Missile Crisis?",
+    "answer_1": 1960,
+    "answer_2": 1963,
+    "answer_3": 1961,
+    "correct_answer": 1962,
+    "id": 7
+  },
+  {
+    "question": "Who was the only US president to have resigned from office?",
+    "answer_1": "Zachary Taylor",
+    "answer_2": "Martin Van Buren",
+    "answer_3": "Ulysses S. Grant",
+    "correct_answer": "Richard Nixon",
+    "id": 8
+  },
+  {
+    "question": "Which of the following US presidents was not assassinated whilst in office?",
+    "answer_1": "James A. Garfield",
+    "answer_2": "John F. Kennedy",
+    "answer_3": "William McKinley",
+    "correct_answer": "Warren G. Harding",
+    "id": 9
+  },
+  {
+    "question": "Ronald Reagan was Governer of which US State prior to becoming the President?",
+    "answer_1": "Texas",
+    "answer_2": "New York",
+    "answer_3": "Florida",
+    "correct_answer": "California",
+    "id": 10
+  }
+]
