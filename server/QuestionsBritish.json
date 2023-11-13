@@ -1,0 +1,82 @@
+[
+  {
+    "question": "Who out of the following was not one of Henry VIII's wives?",
+    "answer_1": "Catherine of Aragon",
+    "answer_2": "Catherine Parr",
+    "answer_3": "Anne of Cleeves",
+    "correct_answer": "Elizabeth of York",
+    "id": 1
+  },
+  {
+    "question": "In what year was the Battle of Hastings?",
+    "answer_1": 1086,
+    "answer_2": 1056,
+    "answer_3": 986,
+    "correct_answer": 1066,
+    "id": 2
+  },
+  {
+    "question": "Which King of England signed the Magna Carta?",
+    "answer_1": "Edward II",
+    "answer_2": "Richard II",
+    "answer_3": "Henry III",
+    "correct_answer": "John",
+    "id": 3
+  },
+  {
+    "question": "Which King of England was executed in 1649?",
+    "answer_1": "William III",
+    "answer_2": "Charles II",
+    "answer_3": "James II",
+    "correct_answer": "Charles I",
+    "id": 4
+  },
+  {
+    "question": "Where did the Beatles originate from?",
+    "answer_1": "Manchester",
+    "answer_2": "Leeds",
+    "answer_3": "London",
+    "correct_answer": "Liverpool",
+    "id": 5
+  },
+  {
+    "question": "When did Queen Victoria begin her reign?",
+    "answer_1": 1830,
+    "answer_2": 1840,
+    "answer_3": 1834,
+    "correct_answer": 1837,
+    "id": 6
+  },
+  {
+    "question": "James I was James x of Scotland. What is x?",
+    "answer_1": "V",
+    "answer_2": "VII",
+    "answer_3": "IV",
+    "correct_answer": "VI",
+    "id": 7
+  },
+  {
+    "question": "Which University is the oldest in the UK that is in continuous operation?",
+    "answer_1": "University of St Andrews",
+    "answer_2": "University of Cambridge",
+    "answer_3": "University of Edinburgh",
+    "correct_answer": "University of Oxford",
+    "id": 8
+  },
+  {
+    "question": "What was Richard I's nickname?",
+    "answer_1": "Long Shanks",
+    "answer_2": "the Brave",
+    "answer_3": "the Warrior",
+    "correct_answer": "the Lionheart",
+    "id": 9
+  },
+  {
+    "question": "When did the London Underground begin its first service?",
+    "answer_1": 1860,
+    "answer_2": 1872,
+    "answer_3": 1867,
+    "correct_answer": 1863,
+    "id": 10
+  }
+]

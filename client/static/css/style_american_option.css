@@ -1,0 +1,12 @@
+@import url('./front3pagecss/font.css'); 
+@import url('./front3pagecss/middle-container.css');
+@import url('./front3pagecss/body.css');
+@import url('./front3pagecss/buttons.css');
+
+body {
+  background-image: url('./background-images/america_img.jpg');
+}
+
+.container_main {
+  padding: 24px;
+}

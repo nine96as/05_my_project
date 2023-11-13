@@ -1,0 +1,20 @@
+.twoButtons {
+  display: flex;
+  flex-direction: row;
+  gap: 70px;
+}
+
+.start {
+  font-size: 30px;
+  width: 300px;
+  height: 70px;
+  border-radius: 0.5em;
+  border: none;
+  padding: 6px 0;
+}
+
+.select {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
